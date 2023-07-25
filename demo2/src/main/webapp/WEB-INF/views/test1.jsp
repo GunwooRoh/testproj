@@ -4,18 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-
-<h1>jsp - main 페이지입니다.~~~~~</h1>
-
-<h3>h3 tag</h3>
-
-<h2>ㅇㅇㅇㅇㅇㅇ</h2>
-
-<!-- http://localhost:9091 -->
-
-
+<h1>test1 page</h1>
 </body>
 </html>
